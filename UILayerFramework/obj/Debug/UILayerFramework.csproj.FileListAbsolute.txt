@@ -1,0 +1,9 @@
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\obj\Debug\UILayerFramework.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\UILayerFramework.dll
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\UILayerFramework.pdb
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\WebDriver.dll
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\WebDriver.xml
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\obj\Debug\UILayerFramework.dll
+C:\Users\Andres\Source\Repos\FacebookAutomationTest\UILayerFramework\obj\Debug\UILayerFramework.pdb
